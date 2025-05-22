@@ -1,5 +1,5 @@
 
-@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap" rel="stylesheet')
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&display=swap" rel="stylesheet');
 
 :root {
     --cor-principal: #6E859F;
@@ -8,8 +8,7 @@
 }
 
 body {
-    font-family: 'Chakra Petch', sans-serif;
-    color: var(--cor-principal);
+   font-family: "Josefin Sans", sans-serif;
 }
 
 h1, h2, h5 {
@@ -17,16 +16,10 @@ h1, h2, h5 {
     font-weight: 700;
 }
 
-.lead, .btn-link {
-    color: var(--cor-destaque);
-    font-weight: 700;
-}
-
-a, .btn-link:hover {
+footer a {
     color: var(--cor-principal)
 }
 
-a:hover{
+footer a:hover {
     color: var(--cor-destaque);
 }
-
