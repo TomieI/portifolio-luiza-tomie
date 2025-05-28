@@ -2,9 +2,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&display=swap" rel="stylesheet');
 
 :root {
-    --cor-principal: #6E859F;
+    --cor-principal: #05284f;
     --cor-secundaria: #fcba03;
-    --cor-destaque: #C92BFC;
+    --cor-destaque: #f2ab38;
 }
 
 body {
