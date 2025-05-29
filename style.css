@@ -5,9 +5,11 @@
     --cor-principal: #05284f;
     --cor-secundaria: #fcba03;
     --cor-destaque: #f2ab38;
+    --cor-de-fundo: #ffd2cf;
 }
 
 body {
+   background-color: var(--cor-de-fundo);
    font-family: "Josefin Sans", sans-serif;
 }
 
